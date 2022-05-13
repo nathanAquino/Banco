@@ -1,0 +1,7 @@
+C:\Users\Nathan\Documents\ProvaASL\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Nathan\Documents\ProvaASL\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Nathan\Documents\ProvaASL\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Nathan\Documents\ProvaASL\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\ProvaASL\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Nathan\Documents\ProvaASL\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\Nathan\Documents\ProvaASL\Banco\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
